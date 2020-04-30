@@ -15,5 +15,10 @@ Automate the Boring Stuff with Python (available free online): https://automatet
 
 Python for Beginners course ($50): http://www.automatingosint.com/blog/python-for-beginners/ 
 
-
 NCSL Occupational Licensing database: https://www.ncsl.org/research/labor-and-employment/occupational-licensing-statute-database.aspx 
+
+OpenRefine (Google data processing tool): http://openrefine.org/
+
+Video on using OpenCorporates with open refine: https://vimeo.com/17924204
+
+OpenCorporates: https://opencorporates.com/
