@@ -1,0 +1,19 @@
+
+iMacros: https://www.imacros.net
+
+Python installation (Windows): Download cygwin -> https://cygwin.com/install.html
+	-When you get to the part with the big list of packages to install, choose 'python3' and 'python3-pip'
+
+Microsoft Fuzzy match: https://www.microsoft.com/en-us/download/details.aspx?id=15011
+
+CSVMatch (requires Python 3.6 or higher): https://github.com/maxharlow/csvmatch 
+
+
+Scraping reosurces:
+
+Automate the Boring Stuff with Python (available free online): https://automatetheboringstuff.com/ 
+
+Python for Beginners course ($50): http://www.automatingosint.com/blog/python-for-beginners/ 
+
+
+NCSL Occupational Licensing database: https://www.ncsl.org/research/labor-and-employment/occupational-licensing-statute-database.aspx 
